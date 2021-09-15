@@ -1,0 +1,9 @@
+C:\Projects\2048\Forms2048\Forms2048\bin\Debug\Forms2048.exe.config
+C:\Projects\2048\Forms2048\Forms2048\bin\Debug\Forms2048.exe
+C:\Projects\2048\Forms2048\Forms2048\bin\Debug\Forms2048.pdb
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.csprojAssemblyReference.cache
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.Form1.resources
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.Properties.Resources.resources
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.csproj.GenerateResource.cache
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.exe
+C:\Projects\2048\Forms2048\Forms2048\obj\Debug\Forms2048.pdb
